@@ -1,0 +1,175 @@
+
+#glavni{
+    margin:auto;
+   font: 12px Arial, Helvetica, sans-serif;
+     width:  960px;
+}
+#beli{
+    position: relative;
+    background-color: white;
+}
+#slika{
+    position: absolute;
+    height: 120px;
+}
+
+ul{
+   position: absolute;
+  list-style-type: none;
+  padding-top: 30px;
+  padding-left: 920px;
+  overflow: hidden;
+}
+li{
+    float:left;
+}
+li a{
+    color: #fe9b00;
+  display: block;
+  padding: 10px;
+  text-align: center;
+  margin-left: 30px;
+  text-decoration: none;
+}
+#meni{
+margin-left:-500px;
+}
+#linija{
+    padding-top: 130px;
+    height: 20px;
+}
+#linija2{
+    padding-top: 10px;
+    height: 20px;
+}
+#slika2{
+     position:relative;
+}
+img{
+    position: relative;
+    height: 360px;
+}
+
+ #txtslika p {
+        position: absolute;
+        top: 200px;
+        left:80px;
+        background-color: #FFFF9D;
+        padding: 10px ;
+        padding-right: 40px;
+        font-size: 15px;
+ }
+ #aboutus,#tekst1,#tekst12{
+     color: #5d5d5d;
+     float:left;
+}
+ hr.linijaaa{
+  border: solid #5d5d5d;
+ // width:30px;
+ }
+ table{color: #5d5d5d;
+     float:left;
+     width: :100px;
+     border-collapse: collapse;
+  text-align: right;
+
+ }
+ #tabela{
+     text-align: right;
+ }
+table, th, tr {
+  font-family: inherit;
+  border: 1px solid #fe9b00;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  padding-right:  70px;
+  padding-left: 5px;
+  text-align: left;
+
+}
+tr{
+     padding-right:  50px;
+}
+#poseban{
+    color:#fe9b00;
+    text-align: left;
+}
+#tekst1 {
+    width: 280px;
+    margin-left: 40px;
+}
+#chek{
+    width: 250px;
+    text-align: left;
+   list-style: square inside url("images/sep02.gif");
+   padding-left: 0px;
+   margin-left: 10px;
+   padding-top: 0px;
+   line-height: 180%;
+
+}
+#chek li{
+    text-align: left;
+    padding: 5px;
+}
+h3{
+    font-size: 20px;
+}
+#tekst12{
+    float: right;
+    width: 280px;
+    margin-left: 40px;
+}
+#txt{
+    margin-left: 40px;
+    margin-right: 40px;
+    line-height: 180%;
+    text-align: justify;
+}
+#linija3{
+    color: black;
+    padding-top: 350px;
+}
+#port{
+    position: relative;
+    color: #5d5d5d;
+}
+#n, #nn, #nnn, #nnnnn{
+    position: absolute;
+    height: 120px;
+}
+#nn{
+    left:120px;
+    top:120px;  
+}
+#nnn{
+    left:450px;
+}
+#nnnnn{
+    top:120px;
+    left:580px;
+}
+#linija4{
+     padding-top: 160px;
+}
+#footer{
+    position: relative;
+     margin:auto;
+   font: 12px Arial, Helvetica, sans-serif;
+    height: 100px;
+   background-color:  #e2e2e2;
+   margin-top: 30px;
+}
+#ftxt{
+    position: absolute;
+    top:40px;
+    left:500px;
+    color: #5d5d5d;
+}
+#ftxt a{
+    color: #fe9b00;
+}
+
+
+
+
